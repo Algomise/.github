@@ -14,6 +14,8 @@ from data pipelines to predictive models. **Data in. Decisions out.**
 [![Website](https://img.shields.io/badge/algomise.com-0D0D2B?style=for-the-badge&logo=googlechrome&logoColor=AFA9EC)](https://algomise.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/algomise)
 [![X](https://img.shields.io/badge/@algomise-1D9E75?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algomise)
+[![Instagram](https://img.shields.io/badge/@algomise-534AB7?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/algomise)
+[![Facebook](https://img.shields.io/badge/@algomise-1D9E75?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/algomise)
 [![Email](https://img.shields.io/badge/hello@algomise.com-0D0D2B?style=for-the-badge&logo=gmail&logoColor=5DCAA5)](mailto:hello@algomise.com)
 
 </div>
