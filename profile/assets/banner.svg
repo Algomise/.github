@@ -1,0 +1,63 @@
+<svg width="1280" height="380" viewBox="0 0 1280 380" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Algomise — Intelligence, engineered.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D0D2B"/>
+      <stop offset="45%" stop-color="#1B0F3A"/>
+      <stop offset="78%" stop-color="#2D1B69"/>
+      <stop offset="100%" stop-color="#0F3D2E"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#AFA9EC"/>
+      <stop offset="100%" stop-color="#5DCAA5"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#534AB7"/>
+      <stop offset="50%" stop-color="#3D6DB5"/>
+      <stop offset="100%" stop-color="#1D9E75"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#534AB7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#534AB7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="380" rx="0" fill="url(#bg)"/>
+  <rect width="1280" height="380" fill="url(#glow)"/>
+
+  <!-- constellation / data-network decoration -->
+  <g stroke="#AFA9EC" stroke-opacity="0.16" stroke-width="1.2">
+    <line x1="120" y1="70" x2="250" y2="150"/>
+    <line x1="250" y1="150" x2="180" y2="290"/>
+    <line x1="250" y1="150" x2="410" y2="110"/>
+    <line x1="1060" y1="90" x2="1150" y2="210"/>
+    <line x1="1150" y1="210" x2="1020" y2="300"/>
+    <line x1="1150" y1="210" x2="1210" y2="120"/>
+    <line x1="940" y1="60" x2="1060" y2="90"/>
+  </g>
+  <g fill="#5DCAA5" fill-opacity="0.5">
+    <circle cx="120" cy="70" r="3"/>
+    <circle cx="250" cy="150" r="4"/>
+    <circle cx="180" cy="290" r="3"/>
+    <circle cx="410" cy="110" r="2.5"/>
+    <circle cx="1060" cy="90" r="3"/>
+    <circle cx="1150" cy="210" r="4"/>
+    <circle cx="1020" cy="300" r="3"/>
+    <circle cx="1210" cy="120" r="2.5"/>
+    <circle cx="940" cy="60" r="2.5"/>
+  </g>
+
+  <!-- logo: 'A' mark + node -->
+  <g transform="translate(640,118)">
+    <path d="M-46 56 L0 -56 L46 56" stroke="url(#mark)" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="9" fill="url(#mark)"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="640" y="248" text-anchor="middle" font-family="'Sora','Segoe UI',Helvetica,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-1.5" fill="#FFFFFF">algomise</text>
+
+  <!-- accent rule -->
+  <rect x="592" y="276" width="96" height="4" rx="2" fill="url(#rule)"/>
+
+  <!-- tagline -->
+  <text x="640" y="324" text-anchor="middle" font-family="'Sora','Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="500" letter-spacing="7" fill="#AFA9EC" fill-opacity="0.85">INTELLIGENCE, ENGINEERED.</text>
+</svg>
